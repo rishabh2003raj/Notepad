@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: bisque;
+}
+.h1{
+    text-align: center;
+}
+
+.notepad {
+    width: 300px;
+    margin: 0 auto;
+}
+
+textarea {
+    width: 100%;
+    height: 500px;
+}
+
+.btn {
+    margin-top: 10px;
+    cursor: pointer;
+    color: brown;
+    border-radius: 20%;
+    margin: 20px;
+    font-size: 20px;
+}
+
+.btn:hover{
+    background-color: brown;
+    color: azure;
+}
